@@ -1,0 +1,18 @@
+body {
+    font-family: calibri;
+  }
+  a {
+    color: #129ed6;
+    text-decoration: none;
+  }
+  .box {
+    width: 660px;
+    margin: 100px auto;
+  }
+
+  .ck-content {
+    min-height: 400px !important;   
+  }
+  .ck-content p {
+    border-bottom: 0.5px solid #efefef;
+  }
